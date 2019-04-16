@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-app2-export-module",
+  "version": "1.0.0",
+  "description": "NodeJS demo application - export module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeJS-App2-Export-Module"
+  },
+  "keywords": [
+    "nodejs",
+    "export",
+    "module"
+  ],
+  "author": "rinkeshpatel22",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
